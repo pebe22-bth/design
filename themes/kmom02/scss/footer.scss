@@ -1,0 +1,25 @@
+.footer {
+  flex: 0 0 auto;
+}
+
+
+/* Footer */
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #011e17;
+  font-size: 0.5 rem;
+}
+
+.footer a {
+  color: #1804cd;
+}
+.footer img {
+    max-width: 100%;
+  }
+
+.social {
+  font-size: 2rem;
+}
+
