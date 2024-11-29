@@ -1,0 +1,28 @@
+.footer {
+  flex: 0 0 auto;
+}
+
+
+/* Footer */
+
+.footer {
+  display: flex;
+  padding: 1em;
+  justify-content: space-between;
+  border-top: 1px solid $pre-border-color;
+  font-size: 0.5 rem;
+}
+
+.footer a {
+  color: $a-color;
+}
+
+.footer img {
+  max-width: 100%;
+}
+
+.social,
+.copyright {
+  font-size: 2rem;
+}
+
