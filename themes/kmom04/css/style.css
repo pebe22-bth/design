@@ -6447,7 +6447,7 @@ template {
   padding: 3px;
   border-bottom: 5px;
   border-color: #2a2929;
-  background-color: #EAC500;
+  background-color: #eac500;
   font-size: 1.5rem;
   text-decoration: none;
 }
@@ -6573,7 +6573,8 @@ template {
   padding: 0 1em;
 }
 
-.nav a, .nav-toggle {
+.nav a,
+.nav-toggle {
   color: #000;
 }
 
@@ -6640,7 +6641,7 @@ blockquote {
   margin-left: 1em;
   padding-left: 1em;
   border-left: 0.5em solid #2a2929;
-  background-color: #EAC500;
+  background-color: #eac500;
 }
 
 code {
@@ -6648,7 +6649,7 @@ code {
   padding: 0.1em 0.2em;
   border: 1px solid #2a2929;
   border-radius: 0.3em;
-  background: #EAC500;
+  background: #eac500;
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
@@ -6658,7 +6659,7 @@ pre {
   padding: 0 1em;
   border: 1px solid #2a2929;
   border-radius: 0.3em;
-  background: #EAC500;
+  background: #eac500;
 }
 
 pre code {
@@ -6674,8 +6675,8 @@ pre code {
 html,
 body {
   height: 100%;
-  background: content-box radial-gradient(#EAC500, #A1EB02);
-  background-color: #EAC500;
+  background: content-box radial-gradient(#eac500, #a1eb02);
+  background-color: #eac500;
 }
 
 a {
@@ -6693,7 +6694,7 @@ ul {
 
 /* Placement */
 body {
-  background: content-box radial-gradient(#EAC500, #A1EB02);
+  background: content-box radial-gradient(#eac500, #a1eb02);
   display: flex;
   flex-direction: column;
   padding-left: 2em;
@@ -6748,15 +6749,15 @@ img {
   padding: 10px;
 }
 
-img.small {
+.small {
   width: 60%;
 }
 
-img.smaller {
+.smaller {
   width: 40%;
 }
 
-img.smallest {
+.smallest {
   width: 20%;
 }
 

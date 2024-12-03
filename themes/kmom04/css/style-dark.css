@@ -6446,7 +6446,7 @@ template {
   display: block;
   padding: 3px;
   border-bottom: 5px;
-  border-color: #F5AC1B;
+  border-color: #f5ac1b;
   background-color: #0a0a09;
   font-size: 1.5rem;
   text-decoration: none;
@@ -6549,7 +6549,7 @@ template {
 }
 
 .title * {
-  color: #C2953C;
+  color: #c2953c;
   line-height: 1.4;
 }
 .title * p {
@@ -6573,8 +6573,9 @@ template {
   padding: 0 1em;
 }
 
-.nav a, .nav-toggle {
-  color: #C2953C;
+.nav a,
+.nav-toggle {
+  color: #c2953c;
 }
 
 .nav-toggle {
@@ -6618,12 +6619,12 @@ template {
   display: flex;
   padding: 1em;
   justify-content: space-between;
-  border-top: 1px solid #F5AC1B;
+  border-top: 1px solid #f5ac1b;
   font-size: 0.5 rem;
 }
 
 .footer a {
-  color: #F5AC1B;
+  color: #f5ac1b;
 }
 
 .footer img {
@@ -6639,14 +6640,14 @@ blockquote {
   font-style: italic;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 0.5em solid #F5AC1B;
+  border-left: 0.5em solid #f5ac1b;
   background-color: #0a0a09;
 }
 
 code {
   margin: 0 0.1em;
   padding: 0.1em 0.2em;
-  border: 1px solid #F5AC1B;
+  border: 1px solid #f5ac1b;
   border-radius: 0.3em;
   background: #0a0a09;
   font-family: monospace;
@@ -6656,7 +6657,7 @@ code {
 
 pre {
   padding: 0 1em;
-  border: 1px solid #F5AC1B;
+  border: 1px solid #f5ac1b;
   border-radius: 0.3em;
   background: #0a0a09;
 }
@@ -6674,12 +6675,12 @@ pre code {
 html,
 body {
   height: 100%;
-  background: content-box radial-gradient(#0a0a09, #5C5341);
+  background: content-box radial-gradient(#0a0a09, #5c5341);
   background-color: #0a0a09;
 }
 
 a {
-  color: #F5AC1B;
+  color: #f5ac1b;
 }
 
 ol,
@@ -6693,7 +6694,7 @@ ul {
 
 /* Placement */
 body {
-  background: content-box radial-gradient(#0a0a09, #5C5341);
+  background: content-box radial-gradient(#0a0a09, #5c5341);
   display: flex;
   flex-direction: column;
   padding-left: 2em;
@@ -6729,7 +6730,7 @@ body {
 /* Typography */
 body {
   line-height: 1.5rem;
-  color: #C2953C;
+  color: #c2953c;
 }
 
 p,
@@ -6748,15 +6749,15 @@ img {
   padding: 10px;
 }
 
-img.small {
+.small {
   width: 60%;
 }
 
-img.smaller {
+.smaller {
   width: 40%;
 }
 
-img.smallest {
+.smallest {
   width: 20%;
 }
 
