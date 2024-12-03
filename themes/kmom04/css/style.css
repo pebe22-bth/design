@@ -1,4 +1,6 @@
 @charset "UTF-8";
+/* Bakgrund */
+/* Färger */
 /*!
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
@@ -6423,8 +6425,6 @@ template {
   display: none;
 }
 
-/* Bakgrund */
-/* Färger */
 /* technology.scss */
 .landingpage {
   display: grid;
@@ -6678,29 +6678,6 @@ body {
   background-color: #EAC500;
 }
 
-* {
-  font-family: "Parkinsans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-weight: 500;
-  box-sizing: border-box;
-  border: 0 none;
-  margin: 0;
-  padding: 0;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Open Sans", sans-serif;
-  margin-bottom: 0.6em;
-  margin-top: 1em;
-  font-weight: 400;
-}
-
 a {
   color: #2a2929;
 }
@@ -6768,4 +6745,41 @@ dd {
 img {
   max-width: 100%;
   display: block;
+  padding: 10px;
+}
+
+img.small {
+  width: 60%;
+}
+
+img.smaller {
+  width: 40%;
+}
+
+img.smallest {
+  width: 20%;
+}
+
+* {
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+  box-sizing: border-box;
+  border: 0 none;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 0.6em;
+  margin-top: 1em;
+  font-weight: 400;
+  line-height: 1.5;
 }

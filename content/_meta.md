@@ -2,6 +2,7 @@
 Logo: image/shrek-portrait.jpg
 darklogo: image/shrek-portrait-dark.jpg
 Tagline: Min portfolio
+Lang: sv
 
 Copyright:
     - title: No Copyright

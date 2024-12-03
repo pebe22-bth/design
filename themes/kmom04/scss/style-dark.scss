@@ -1,136 +1,42 @@
-@import '../../shared/fontawesome/scss/fontawesome';
-$fa-font-path: '../../shared/fontawesome/webfonts';
-@import '../../shared/fontawesome/scss/brands';
-@import '../../shared/fontawesome/scss/solid';
-@import '../../shared/fontawesome/scss/regular';
-
-@import '../../node_modules/normalize.css/normalize';
-
 @import 'variables-dark';
-@import 'technology';
-@import 'header';
-@import 'footer';
-@import 'blockquotes';
-@import 'code';
+@import 'main';
 
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@100..700&family=Sixtyfour+Convergence&display=swap');
-
-// Debug purposes 
-
-//* {
-// outline: 1px solid red;
-//}
-
-// End debug purposes 
-html,
-body {
-  height: 100%;
-  background: $background;
-  background-color: $background-color;
-}
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@100..700&family=Shadows+Into+Light+Two&family=Sixtyfour+Convergence:SCAN,XELA@-23,-6&display=swap');
 
 * {
-  font-family: "M PLUS Code Latin", monospace;
+    font-family: 'Parkinsans', sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 500;
+    box-sizing: border-box;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-family: "Sixtyfour Convergence", serif;
   font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-  box-sizing: border-box;
-  border: 0 none;
-  margin: 0;
-  padding: 0;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Sixtyfour Convergence", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
   font-style: normal;
   font-variation-settings:
     "BLED" 0,
     "SCAN" -23,
-    "XELA" 0,
+    "XELA" -6,
     "YELA" 0;
-  margin-bottom: 0.6em;
-  margin-top: 1em;
-  
-}
-
-a {
-  color: $font-alternative-color;
-}
-
-ol,
-ul {
-  padding-left: 1.5em;
-}
-
-.hidden {
-  display: none !important;
-}
-
-/* Placement */
-
-body {
-  background: $background;
-  display: flex;
-  flex-direction: column;
-  padding-left: 2em;
-  padding-right: 2em;
-}
-
-.main {
-  flex: 1 0 auto;
-  padding-top: 2em;
-  padding-bottom: 1em;
-  margin-left: 15em;
-  margin-right: 15em;
-}
-@media (max-width: 900px) {
-  .main {
-    margin-left: 0;
-    margin-right: 0;
-  }
-}
-
-@media (max-width: 767px) {
-  .title,
-  .logo {
-    padding: 1em 1em 1em 0;
+    margin-bottom: 0.6em;
+    margin-top: 1em;
   }
 
-  .title {
-    min-width: 50%;
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Shadows Into Light Two", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0.6em;
+    margin-top: 1em;
+    line-height: 1.5;
   }
-
-  .logo {
-    max-width: 30%;
-  }
-}
-/* Typography */
-
-body {
-  line-height: 1.5rem;
-  color: $font-color;
-}
-
-p,
-td,
-th,
-li,
-dd {
-  text-align: justify;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-}
-
-img {
-  max-width: 100%;
-  display: block;
-}
-

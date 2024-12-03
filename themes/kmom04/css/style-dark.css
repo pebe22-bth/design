@@ -1,9 +1,11 @@
 @charset "UTF-8";
+/* Bakgrund */
+/* Färger */
 /*!
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
-@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@100..700&family=Sixtyfour+Convergence&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@100..700&family=Shadows+Into+Light+Two&family=Sixtyfour+Convergence:SCAN,XELA@-23,-6&display=swap");
 .fa,
 .fas,
 .far,
@@ -6423,8 +6425,6 @@ template {
   display: none;
 }
 
-/* Bakgrund */
-/* Färger */
 /* technology.scss */
 .landingpage {
   display: grid;
@@ -6678,33 +6678,6 @@ body {
   background-color: #0a0a09;
 }
 
-* {
-  font-family: "M PLUS Code Latin", monospace;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-  box-sizing: border-box;
-  border: 0 none;
-  margin: 0;
-  padding: 0;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Sixtyfour Convergence", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-  font-variation-settings: "BLED" 0, "SCAN" -23, "XELA" 0, "YELA" 0;
-  margin-bottom: 0.6em;
-  margin-top: 1em;
-}
-
 a {
   color: #F5AC1B;
 }
@@ -6772,4 +6745,51 @@ dd {
 img {
   max-width: 100%;
   display: block;
+  padding: 10px;
+}
+
+img.small {
+  width: 60%;
+}
+
+img.smaller {
+  width: 40%;
+}
+
+img.smallest {
+  width: 20%;
+}
+
+* {
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+  box-sizing: border-box;
+  border: 0 none;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "BLED" 0, "SCAN" -23, "XELA" -6, "YELA" 0;
+  margin-bottom: 0.6em;
+  margin-top: 1em;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Shadows Into Light Two", cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 0.6em;
+  margin-top: 1em;
+  line-height: 1.5;
 }
