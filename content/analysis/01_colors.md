@@ -128,8 +128,7 @@ Typsnitten som används är
 - h2:         font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 - body text:    font-family: Nunito Sans, Helvetica Neue, helvetica, roboto, arial, sans-serif;
   
-Websidan innehåller inte längre mängder med text, därav få rubriknivåer.
-"FewoFont-Regular" ser ut att vara en egenutvecklad font som ligger lokalt på webplatsen. 
+Websidan innehåller inte längre mängder med text, därav få rubriknivåer. 
 "Nunito Sans" är en Google font.
 
 Det här ytterligare en webplats om en konstnär och har en ambition att vara konstnärlig och professionell. Den är mer strikt jämfört med den ovan. 
