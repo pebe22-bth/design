@@ -1,0 +1,42 @@
+@import 'variables-dark';
+@import 'main';
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@100..700&family=Shadows+Into+Light+Two&family=Sixtyfour+Convergence:SCAN,XELA@-23,-6&display=swap');
+
+* {
+  font-family: 'Parkinsans', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+  box-sizing: border-box;
+  border: 0 none;
+  margin: 0;
+  padding: 0;
+}
+  
+h1 {
+  font-family: 'Sixtyfour Convergence', serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    'BLED' 0,
+    'SCAN' -23,
+    'XELA' -6,
+    'YELA' 0;
+  margin-bottom: 0.6em;
+  margin-top: 1em;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 0.6em;
+  margin-top: 1em;
+  line-height: 1.5;
+}

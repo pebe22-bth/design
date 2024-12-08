@@ -1,0 +1,31 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+
+    <div class="main" role="main">
+       
+        {{ content }}
+        <div class="gallerypage">
+            
+            {% for image in pages["gallery"].meta.images %}
+                <a href="{{ assets_url }}/img/{{ image.filename }}">    
+                    <picture>
+                            <source media="(min-width: 668px)" srcset="image/{{ image.filename }}?w=300&h=300&crop-to-fit">
+                            <img src="image/{{ image.filename }}?w=150&h=150&crop-to-fit">
+                    </picture>
+                </a>
+           {% endfor %}
+            
+          
+        </div>
+        <div class="galleryfooter">
+            {{ meta.credits|raw }}
+        </div>
+
+    </div>
+    
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>

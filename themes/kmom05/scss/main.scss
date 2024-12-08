@@ -1,0 +1,108 @@
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+@import '../../node_modules/normalize.css/normalize';
+
+@import 'technology';
+@import 'header';
+@import 'footer';
+@import 'blockquotes';
+@import 'code';
+@import 'gallery';
+
+
+// Debug purposes 
+
+//* {
+// outline: 1px solid red;
+// }
+
+// End debug purposes 
+html,
+body {
+  height: 100%;
+  background: $background;
+  background-color: $background-color;
+}
+
+a {
+  color: $font-alternative-color;
+}
+
+ol,
+ul {
+  padding-left: 1.5em;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* Placement */
+
+body {
+  background: $background;
+  display: flex;
+  flex-direction: column;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.main {
+  flex: 1 0 auto;
+  padding-top: 2em;
+  padding-bottom: 1em;
+  margin-left: 15em;
+  margin-right: 15em;
+}
+@media (max-width: 900px) {
+  .main {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .title,
+  .logo {
+    padding: 1em 1em 1em 0;
+  }
+
+  .title {
+    min-width: 50%;
+  }
+
+  .logo {
+    max-width: 30%;
+  }
+}
+/* Typography */
+
+body {
+  line-height: 1.5rem;
+  color: $font-color;
+}
+
+p,
+td,
+th,
+li,
+dd {
+  text-align: justify;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  padding: 10px;
+}
+
+.small { width: 60%; }
+.smaller { width: 40%; }
+.smallest { width: 20%; }

@@ -3,11 +3,11 @@ Title: Report
 Description: This is my Report page.
 Template: technologies
 ---
-<div class="first">
+<div class="third">
     <a href="analysis/01_colors">Färger</a>
 </div>
 
-<div class="second">
+<div class="third">
     <a href="analysis/02_load">Load</a>
 </div>
 

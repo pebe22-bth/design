@@ -1,0 +1,26 @@
+$light-palette-1: #ebe402;
+$light-palette-2: #3feb02;
+$light-palette-3: #a1eb02;
+$light-palette-4: #eac500;
+$light-palette-5: #02eb20;
+
+$font-color: #000;
+$font-alternative-color: #2a2929;
+
+$background-color: #eac500;
+$background-alternative-color: #a1eb02;
+
+$header-background-color: #a1eb02;
+$footer-background-color: #a1eb02;
+
+/* Bakgrund */
+$radial-background-color: #a1eb02;
+$background: content-box radial-gradient($background-color, $radial-background-color);
+
+
+/* Färger */
+$code-background-color: $background-color;
+$pre-background-color: $background-color;
+$code-border-color: $font-alternative-color;
+$pre-border-color: $font-alternative-color;
+$a-color: $font-alternative-color;

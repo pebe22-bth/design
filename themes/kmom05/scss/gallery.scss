@@ -1,0 +1,45 @@
+
+/* technology.scss */
+$color1: #add8e6;
+$color2: #f0f;
+$color3: #008000;
+$color4: #ffa500;
+$color5: #808080;
+$color6: #0ff;
+$color7: #ff0;
+$techbox-background-color: $code-background-color;
+$rgba-techbox-background-color: rgba($techbox-background-color, 0.5);
+
+.gallerypage {
+  display: grid;
+  gap: 1em;
+  max-width: 800px;
+  margin: 0 auto;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 200px;
+  box-sizing: border-box;
+    
+
+
+  .gallery { 
+    background-color: $color1;
+  }
+
+  .galleryfooter {
+    display: flex;
+    padding: 1em;
+    justify-content: normal;
+    border-top: 1px solid $pre-border-color;
+    font-size: 0.5 rem;
+  }
+
+  @media only screen and (max-width : 667px) {
+    grid-gap: 5px;
+    grid-template-columns: repeat(1, 1fr);
+
+  }
+}
+
+   
+
+
