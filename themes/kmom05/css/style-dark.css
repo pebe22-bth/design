@@ -6788,6 +6788,11 @@ img {
   width: 20%;
 }
 
+iframe {
+  height: 350px;
+  width: 700px;
+}
+
 * {
   font-family: "Parkinsans", sans-serif;
   font-optical-sizing: auto;
