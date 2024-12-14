@@ -15,23 +15,7 @@ $rgba-techbox-background-color: rgba($techbox-background-color, 0.5);
   gap: 1em;
   max-width: 800px;
   margin: 0 auto;
-  grid-template-columns: repeat(4, 1fr);
-  grid-auto-rows: 200px;
-  box-sizing: border-box;
-    
-
-
-  .gallery { 
-    background-color: $color1;
-  }
-
-  .galleryfooter {
-    display: flex;
-    padding: 1em;
-    justify-content: normal;
-    border-top: 1px solid $pre-border-color;
-    font-size: 0.5 rem;
-  }
+  box-sizing: border-box; 
 
   @media only screen and (max-width : 667px) {
     grid-gap: 5px;
@@ -39,6 +23,34 @@ $rgba-techbox-background-color: rgba($techbox-background-color, 0.5);
 
   }
 }
+.gallery { 
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 200px;
+}
+
+.galleryfooter {
+    border-top: 1px solid $pre-border-color;
+    font-size: 0.5 rem;
+}
+.embed-container {
+    position: relative;
+    grid-template-columns: 0.2fr 1fr 0.2fr;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 
    
 

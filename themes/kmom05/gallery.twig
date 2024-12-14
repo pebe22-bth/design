@@ -5,8 +5,8 @@
 
     <div class="main" role="main">
        
-        {{ content }}
-        <div class="gallerypage">
+        
+        <div class="gallerypage gallery">
             
             {% for image in pages["gallery"].meta.images %}
                 <a href="{{ assets_url }}/img/{{ image.filename }}">    
@@ -16,13 +16,14 @@
                     </picture>
                 </a>
            {% endfor %}
-            
-          
         </div>
-        <div class="galleryfooter">
-            {{ meta.credits|raw }}
-        </div>
-
+            <div class="gallerypage embed-container">
+                 {{ content }}
+            </div>
+            <div class="galleryfooter">
+                 {{ meta.credits|raw }}
+            </div>
+        
     </div>
     
     {% include 'incl/footer.twig' %}
