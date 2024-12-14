@@ -107,7 +107,9 @@ img {
 .smaller { width: 40%; }
 .smallest { width: 20%; }
 
-embed, object, video {
+embed,
+object,
+video {
   max-width: 100%;
 }
 
