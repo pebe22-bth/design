@@ -1,0 +1,28 @@
+$palette-1: #c2953c;
+$palette-2: #8f7749;
+$palette-3: #f5ac1b;
+$palette-4: #5c5341;
+$palette-5: #33312d;
+
+$font-color: #c2953c;
+$font-alternative-color: #f5ac1b;
+
+$background-color: rgba(0, 0, 0, 0.9);
+$background-alternative-color: #5c5341;
+
+$header-background-color: $background-color;
+$footer-background-color: $background-color;
+
+/* Bakgrund */
+$radial-background-color: rgba(0, 0, 0, 0.7);
+/* $background: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.8)) , url("../../shared/img/joe-woods-4Zaq5xY5M_c-unsplash.jpg"); */
+$background: radial-gradient($background-color, $radial-background-color), url('../../shared/img/joe-woods-4Zaq5xY5M_c-unsplash.jpg');
+
+
+
+/* Färger */
+$code-background-color: $background-color;
+$pre-background-color: $background-color;
+$code-border-color: #f5ac1b;
+$pre-border-color: #f5ac1b;
+$a-color: $font-alternative-color;

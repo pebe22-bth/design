@@ -1,0 +1,32 @@
+@import 'variables-light';
+@import 'main';
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@100..700&family=Mountains+of+Christmas:wght@400;700&family=Parkinsans:wght@300..800&family=Shadows+Into+Light+Two&family=Sixtyfour+Convergence:SCAN,XELA@-23,-6&display=swap');
+
+
+* {
+  font-family: 'Parkinsans', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+  box-sizing: border-box;
+  border: 0 none;
+  margin: 0;
+  padding: 0;
+}
+  
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Mountains of Christmas', serif;
+  font-weight: 700;
+  font-style: normal;
+  margin-bottom: 0.6em;
+  margin-top: 1em;
+  line-height: 1.5;
+  font-size: xx-large;
+  text-shadow: 3px 3px #fff;
+}
