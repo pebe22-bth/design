@@ -1,5 +1,4 @@
 
-Designprinciper som kan vara intressanta är till exempel balans, perspektiv, harmoni, unity, rörelse, variation men du väljer själv vilka du vill jobba med.
 
 
 
@@ -22,7 +21,6 @@ Vi använder samma webplaster som i föregående uppgift, vilket är 3 färgstar
 Metod
 -----------------------
 
-Berätta om du använde något speciellt bakgrundsmaterial som definierade designprinciper (och designelement). Det blir stöd för din bakomliggande metod för att utföra din studie.
 
 Som grund till kända designprinciper har [Design Elements & Principles](https://www.canva.com/learn/design-elements-principles/) använts. Som utgångspunkt har speciellt användning av balans, perspektiv, harmoni, unity, rörelse och variation inventerats i webplatserna.
 
@@ -45,24 +43,21 @@ Resultat
 
 Resultat:
 
-- Webbplatsens syfte
-  Syftet med webplatsen är att marknadsföra konstnären, sprida information och gynna försäljning
+- Webbplatsens syfte är att marknadsföra konstnären, sprida information och gynna försäljning
 
-- Webbplatsens design
-  Designen hjälper till att förstärka artistens profil.
+- Webbplatsens design hjälper till att förstärka artistens profil.
 
-- Designens bidrag till webbplatsens mål och syfte och/eller vilken känsla tillför designen ?
-  Webplasten 
+-   Känslan av häftig, tung rockmusik förstärks med bl.a. bilder, färger och fonter.
 
-- Vilka designprinciper kännetecknar webbplatsens design ? och exemplifiera. Notera gärna vilka designelement som använts.
-  balans, perspektiv, harmoni, unity, rörelse, variation 
+- Vilka designprinciper kännetecknar webbplatsens design ? 
 
-  Typografi - typsnitt och färg i rubriker sticker ut och är en stor del i webplatsens design
-  ![Rubrikernas typsnitt](%assets_url%/img/kmom06/image1.png) {.smallest}
-  Komposition - Landningssidans användning av olika bakgrundsbilder i flödet ger en stark effekt
+  Typografi - typsnitt och färg i rubriker sticker ut och är en stor del i webplatsens design<br>
+  ![Rubrikernas typsnitt](%assets_url%/img/kmom06/image1.png.avif) {.smallest}<br>
+  Komposition - Landningssidans användning av olika bakgrundsbilder i flödet ger en stark visuell effekt.<br>
+  Textur - Bakgrunderna innhåller ikoner och små bilder samt textur i form av "fläckar", vilket skapar en känsla av sammanhang och tillför omedvetet bakgrundsinformation som komplement.
 
 
-- Är designprinciperna som används är lika/olika för framsidan och undersidorna och kommentera.
+- Designen är genomgående samma i hela webplatsen, vilket skapar ett bra helhetsintryck och gör det lättare att navigera.
 
 ***
 
@@ -70,53 +65,48 @@ Resultat:
 ### Webplats 2: Fewocious.com [fewocious.com](https://fewocious.com/)
 
 
-![Websidan](%assets_url%/img/kmom04/websites/fewocious-www.png)  {.small}
+![Websidan](%assets_url%/img/kmom04/websites/fewocious-www.png.avif)  {.small}
 
 Resultat:
 
-- Webbplatsens syfte
-  Syftet med webplatsen är att marknadsföra artisten, sprida information och gynna försäljning
+- Syftet med webplatsen är att marknadsföra artisten, sprida information och gynna försäljning.
 
-- Webbplatsens design
-  Designen hjälper till att förstärka artistens profil.
+- Webbplatsens design hjälper till att förstärka artistens profil.
 
-- Designens bidrag till webbplatsens mål och syfte och/eller vilken känsla tillför designen ?
-  
+-   Designen förstärker artistens profil - som jag inte riktigt förstår, men den ska nog uppfattas som rörig med mycket symboler som säkert betyder en massa saker. Konstverken som visas på bil i webplatsen har samma stil och liknande spretiga färger så gillar man den typen av konst är webplatsen ett bra skyltfönster. 
 
-- Vilka designprinciper kännetecknar webbplatsens design ? och exemplifiera. Notera gärna vilka designelement som använts.
-  balans, perspektiv, harmoni, unity, rörelse, variation 
+- Vilka designprinciper kännetecknar webbplatsens design ? 
 
-Balans
-![balans](balance.png)
-Typografi - typsnitt i rubriker sticker ut och är en stor del i webplatsens design
-Komposition - Landningssidans användning av olika bakgrunder i flödet ger en stark effekt
-Textur - Olika textur används i bakgrunder
-![Bakgrundernas textur](%assets_url%/img/kmom06/textur.png){.smaller}
+Typografi - typsnitt i rubriker sticker ut och är en stor del i webplatsens design.<br>
+Komposition - Landningssidans användning av olika bakgrunder i flödet ger en stark effekt.<br>
+Textur - Olika textur används i bakgrunder<br>
+![Bakgrundernas textur](%assets_url%/img/kmom06/textur.png.avif){.smaller}<br>
 
 
+-   Samma design är genomgående på alla sidor, förutom "webshop" sidan som länkar vidare till annan webplats.
 ****
 
 
 ### Webplats 3: [Jos Brolmann](https://www.josbrolmann.com/)
 
-![Websidan](%assets_url%/img/kmom04/websites/jos-www.png)  {.small}
+![Websidan](%assets_url%/img/kmom04/websites/jos-www.png.avif)  {.small}
 
 Resultat:
 
-- Webbplatsens syfte
-  Syftet med webplatsen är att marknadsföra artisten, sprida information och gynna försäljning
+- Webbplatsens syfte är att marknadsföra artisten, sprida information och gynna försäljning
 
-- Webbplatsens design
-  Designen hjälper till att förstärka artistens profil.
+- Webbplatsens design hjälper till att förstärka artistens profil.
 
 - Designens bidrag till webbplatsens mål och syfte och/eller vilken känsla tillför designen ?
-  
+  Designen berättar om artisten och presenterar på ett lätt och tydligt sätt hans konst som genmom webplatsen blir mer tillgänglig. Innehållet har ett flöde som uppmuntrar besökaren att fördjupa sig i konstnärens verk och väcker (förhoppningsvis) nyfikenhet hos besökaren.
 
-- Vilka designprinciper kännetecknar webbplatsens design ? och exemplifiera. Notera gärna vilka designelement som använts.
-  balans, perspektiv, harmoni, unity, rörelse, variation 
-Komposition - Landningssidans användning av olika bakgrunder i flödet ger en stark effekt
-Riktning - 
-![Textflöde](%assets_url%/img/kmom06/image.png) {.smaller}
+- Vilka designprinciper kännetecknar webbplatsens design ? <br>
+Komposition - Landningssidans användning bakgrundsbild i flödet ger en stark effekt och introducerar artisten som finns med i bild.<br>
+Riktning - Texten presenteras på hemsidan i ett flöde tillsammans med bilder enligt nedan. Övriga sidor blandar bilder och text på ett integrerat sätt.<br>
+
+![Textflöde](%assets_url%/img/kmom06/image.png.avif) {.smaller}<br>
+
+- I stort sett samma designprinciper används på alla sidor, med lite variantion i flödet på landningssidan jämfört med undersidorna.
 
 ****
   
@@ -124,22 +114,56 @@ Riktning -
 Analys
 -----------------------
 
-Sammanfatta ditt resultat i en analys och skriv generellt om din studie, kom du fram till något speciellt rörande hur webbplatser använder designprinciper?
+Analysen i uppgiften med den teori om design med bakgrund gör att man ser på webplster på ett delvis nytt sätt. Att förstå hur bild och text placeras med hjälp av uttänkta grids ger en inblick och förståelse för hur designern bakom webplatsen har tänkt att den ska konsumeras och uppfattas. 
+Denna kunskap kan underlätta att förstå vad som är viktigt och att tolka budskapet med webplatser.
+Webplatser jag tittat runt på i samband med uppgiften är många uppbyggda förvånansvärt lika och de flesta ganska enkla i sin grundläggande design.
+En ny kunskap är att små medel kan göra väldigt stora skillnader.
 
+Designval beror till stor del på vilket innehåll som ska presenteras och hur det lämpar sig för olika designrinciper.
 
-Analysera självständigt din egen sida på samma sätt och jämför med de sidor du/din grupp har kollat på:
+Motsvarande analys genomförd på den webplats jag byggt:
 
-Analysera din sida utifrån punkt 4.2 - 4.5
+Webbplatsens syfte
+  Syftet med webplatsen är att utveckla och testa olika designtekniker 
+
+- Webbplatsens design
+  Designen hjälper till att dels - i det ljusa temat - bidra med lite humor och göra innehållet lättillgängligt och snyggt. Det mörka temat är stramare och lämpar sig kanske mer för faktapresentation.
+
+- Designens bidrag till webbplatsens mål och syfte och/eller vilken känsla tillför designen ?
+  Designen gör innehållet mer lättillgängligt och gör det lättare att naviger aoch hitta viktiga funktioner såsom ljust/mörkt tema, externa länkar till repo osv. Syftet är att visa på robust implementation av enkla designprinciper, vilket den lyckas väl med. ;)
+
+- Vilka designprinciper kännetecknar webbplatsens design ? 
+  
+Komposition - Alla sidor följer en tydlig komposition med en header, sidfot samt meny och profilbild överst som gör webplasten lättnavigerad och gör innehållet lättförståligt. Bildens placering gör att man snabbt förstår att sidans syfte är just att presentera en profil.
+
+Inramning - alla bilder har en snygg, diskret inramning<br>
+
+Grid - bilder och text följer kolumner och rader på ett strukturetat sätt.<br>
+
+![Textflöde](%assets_url%/img/kmom06/dark-design.png.avif) {.smaller}<br>
+
+Textur - Bakgrunder på alla sidor består av mönster som ger ett djup och känsla till webplatsen.<br>
+![Textur](%assets_url%/img/kmom06/shrek-textur.png.avif) {.smaller}<br>
+
+- Är designprinciperna som används lika/olika för framsidan och undersidorna ?<br>
+Nej, då sidorna utvecklats löpande för olika uppgifter ser innehållet väldigt olika ut och följer delvis olika designprinciper.
+
 Finns det uppdateringar du kan göra på din sida sett utifrån vad du märkt av under din analys?
-Notera uppdateringarna du gör, eller väljer att inte göra.
+Ja, det går att applicera andra designprinciper på webplatsen för att förstärka intryck. Av de nämnda designprinciperna pvan har jag lagt till Inraming (runt alla bilder), textur (i form av bakgrundsmönster på alla sidor) och typografi med hjälp av separata fonterpå rubriker. Jag tycker det blev ganska bra.. ;)
+
 
 Referenser
 -----------------------
 
-
+- https://www.canva.com/learn/design-elements-principles/
 
 
 Övrigt
 -----------------------
 
 Uppgiften löstes individuellt.
+
+De designprinciper som användes för att vidareutveckla webplatsen i denna uppgift var:
+- Inramning - med inramade bilder
+- Textur - bakgrunder med textur
+- Typografi -  Styliga fonter i rubrikerna. Olika fonter i ljust / mörkt tema.

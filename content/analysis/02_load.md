@@ -53,7 +53,7 @@ Resultat
 ![Websidan](%assets_url%/img/kmom04/websites/dregen-webpage.jpg)  {.small}
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqlYfqAmrERg6fzOiY-yjKtzZqaTz2SpQG07vhqarXs1swm2WTEm7yJQ4v9tf1RRfIleUZO_L5lW2g/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe title="Dregen performance statistics" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqlYfqAmrERg6fzOiY-yjKtzZqaTz2SpQG07vhqarXs1swm2WTEm7yJQ4v9tf1RRfIleUZO_L5lW2g/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 Kommentarer till resultat: 
 - Prestanda och användberhet är sammantaget bra, med vissa undantag
@@ -69,7 +69,7 @@ Kommentarer till resultat:
 ![Websidan](%assets_url%/img/kmom04/websites/fewocious-www.png)  {.small}
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqlYfqAmrERg6fzOiY-yjKtzZqaTz2SpQG07vhqarXs1swm2WTEm7yJQ4v9tf1RRfIleUZO_L5lW2g/pubhtml?gid=70715650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe title="Fewocious.com performance statistics" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqlYfqAmrERg6fzOiY-yjKtzZqaTz2SpQG07vhqarXs1swm2WTEm7yJQ4v9tf1RRfIleUZO_L5lW2g/pubhtml?gid=70715650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 Kommentarer till resultat: 
@@ -84,7 +84,7 @@ Kommentarer till resultat:
 
 ![Websidan](%assets_url%/img/kmom04/websites/jos-www.png)  {.small}
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqlYfqAmrERg6fzOiY-yjKtzZqaTz2SpQG07vhqarXs1swm2WTEm7yJQ4v9tf1RRfIleUZO_L5lW2g/pubhtml?gid=769309446&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe title="Jos Brolman performance statistics" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqlYfqAmrERg6fzOiY-yjKtzZqaTz2SpQG07vhqarXs1swm2WTEm7yJQ4v9tf1RRfIleUZO_L5lW2g/pubhtml?gid=769309446&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 Kommentarer till mätningar: 
 - Prestanda och användbarhet är sammantaget bra, med vissa undantag

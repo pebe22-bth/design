@@ -1,5 +1,5 @@
 ---
-Logo: image/shrek-portrait.jpg
+Logo: image/shrek-portrait.jpg?w=100&q=60
 darklogo: image/shrek-portrait-dark.jpg
 Tagline: Min portfolio
 Lang: sv
